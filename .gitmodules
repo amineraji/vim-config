@@ -28,3 +28,9 @@
 [submodule "bundle/vim-virtualenv"]
 	path = bundle/vim-virtualenv
 	url = https://github.com/jmcantrell/vim-virtualenv.git
+[submodule "Colour-Sampler-Pack"]
+	path = Colour-Sampler-Pack
+	url = http://github.com/vim-scripts/Colour-Sampler-Pack
+[submodule "bundle/colour-sampler-pack"]
+	path = bundle/colour-sampler-pack
+	url = https://github.com/vim-scripts/Colour-Sampler-Pack.git
